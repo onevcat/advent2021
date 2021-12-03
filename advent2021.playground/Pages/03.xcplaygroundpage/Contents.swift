@@ -1,7 +1,7 @@
 import Foundation
 
 extension Collection where Self.Iterator.Element: RandomAccessCollection {
-    func transposed() -> [[Self.Iterator.Element.Iterator.Element]] {
+    var transposed: [[Self.Iterator.Element.Iterator.Element]] {
         guard let firstRow = self.first else { return [] }
         return firstRow.indices.map { index in map{ $0[index] } }
     }
@@ -54,7 +54,7 @@ extension Array where Element == [Character] {
         var index = 0
         
         while result.count > 1 {
-            let currentPass = result.transposed()[index]
+            let currentPass = result.transposed[index]
             var left = [[String.Element]]()
             for index in keeping(currentPass) {
                 left.append(result[index])
@@ -70,7 +70,7 @@ extension Array where Element == [Character] {
 let input = try load(index: 3).map { Array($0) }
 
 // Part 1
-let gamma = input.transposed().map { $0.mostCommon }
+let gamma = input.transposed.map { $0.mostCommon }
 let epsilon = gamma.complementary
 print(gamma.number * epsilon.number)
 
