@@ -1,12 +1,5 @@
 import Foundation
 
-extension Collection where Self.Iterator.Element: RandomAccessCollection {
-    var transposed: [[Self.Iterator.Element.Iterator.Element]] {
-        guard let firstRow = self.first else { return [] }
-        return firstRow.indices.map { index in map{ $0[index] } }
-    }
-}
-
 extension Array where Element: Equatable {
     func moreThanHalf(_ v: Element) -> Bool {
         var count = 0
