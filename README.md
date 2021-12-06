@@ -11,3 +11,4 @@ My solution of Swift for [Advent of Code 2021](https://adventofcode.com/2021). J
 | [Day 3: Binary Diagnostic](https://adventofcode.com/2021/day/3)       | :star::star: | [:bulb:](advent2021.playground/Pages/03.xcplaygroundpage/Contents.swift) |
 | [Day 4: Giant Squid](https://adventofcode.com/2021/day/4)             | :star::star: | [:bulb:](advent2021.playground/Pages/04.xcplaygroundpage/Contents.swift) |
 | [Day 5: Hydrothermal Venture](https://adventofcode.com/2021/day/5)    | :star::star: | [:bulb:](advent2021.playground/Pages/05.xcplaygroundpage/Contents.swift) |
+| [Day 6: Lanternfish](https://adventofcode.com/2021/day/6)             | :star::star: | [:bulb:](advent2021.playground/Pages/06.xcplaygroundpage/Contents.swift) |
