@@ -14,3 +14,4 @@ My solution of Swift for [Advent of Code 2021](https://adventofcode.com/2021). J
 | [Day 6: Lanternfish](https://adventofcode.com/2021/day/6)             | :star::star: | [:bulb:](advent2021.playground/Pages/06.xcplaygroundpage/Contents.swift) |
 | [Day 7: The Treachery of Whales](https://adventofcode.com/2021/day/7) | :star::star: | [:bulb:](advent2021.playground/Pages/07.xcplaygroundpage/Contents.swift) |
 | [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8)    | :star::star: | [:bulb:](advent2021.playground/Pages/08.xcplaygroundpage/Contents.swift) |
+| [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9)             | :star::star: | [:bulb:](advent2021.playground/Pages/09.xcplaygroundpage/Contents.swift) |
