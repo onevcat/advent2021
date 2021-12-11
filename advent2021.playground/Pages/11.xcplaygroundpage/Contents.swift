@@ -10,6 +10,7 @@ for _ in 0 ..< 100 {
 }
 print(value)
 
+// Part 2
 m = Map(values: input)
 var found = false
 var step: Int = 0
