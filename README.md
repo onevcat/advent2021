@@ -16,3 +16,4 @@ My solution of Swift for [Advent of Code 2021](https://adventofcode.com/2021). J
 | [Day 8: Seven Segment Search](https://adventofcode.com/2021/day/8)    | :star::star: | [:bulb:](advent2021.playground/Pages/08.xcplaygroundpage/Contents.swift) |
 | [Day 9: Smoke Basin](https://adventofcode.com/2021/day/9)             | :star::star: | [:bulb:](advent2021.playground/Pages/09.xcplaygroundpage/Contents.swift) |
 | [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10)        | :star::star: | [:bulb:](advent2021.playground/Pages/10.xcplaygroundpage/Contents.swift) |
+| [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11)         | :star::star: | [:bulb:](advent2021.playground/Pages/11.xcplaygroundpage/Contents.swift) |
