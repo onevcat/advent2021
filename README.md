@@ -18,3 +18,5 @@ My solution of Swift for [Advent of Code 2021](https://adventofcode.com/2021). J
 | [Day 10: Syntax Scoring](https://adventofcode.com/2021/day/10)        | :star::star: | [:bulb:](advent2021.playground/Pages/10.xcplaygroundpage/Contents.swift) |
 | [Day 11: Dumbo Octopus](https://adventofcode.com/2021/day/11)         | :star::star: | [:bulb:](advent2021.playground/Pages/11.xcplaygroundpage/Contents.swift) |
 | [Day 12: Passage Pathing](https://adventofcode.com/2021/day/12)       | :star::star: | [:bulb:](advent2021.playground/Pages/12.xcplaygroundpage/Contents.swift) |
+| [Day 13: Transparent Origami](https://adventofcode.com/2021/day/13)   | :star::star: | [:bulb:](advent2021.playground/Pages/13.xcplaygroundpage/Contents.swift) |
+
